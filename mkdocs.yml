@@ -1,14 +1,14 @@
-site_name: cka-preps by ramdev
+site_name: Certified Kubernetes Administration
 
 theme:
     name: 'material'
-    logo: assets/logo.png
+    logo: ./assets/logo.png
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
+      primary: white
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -17,7 +17,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: teal
       accent: white
       toggle:
         icon: material/toggle-switch
@@ -25,7 +25,7 @@ theme:
 
 # Extensions
 markdown_extensions:
-  - footnotes
+  # - footnotes
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
