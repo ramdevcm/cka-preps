@@ -2,6 +2,7 @@ site_name: cka-preps by ramdev
 
 theme:
     name: 'material'
+    logo: assets/logo.png
     palette:
 
     # Light mode
