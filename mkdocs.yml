@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: cka-preps template
 
 theme:
     name: 'material'
