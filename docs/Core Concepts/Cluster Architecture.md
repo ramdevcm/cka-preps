@@ -20,7 +20,7 @@ This note is regarding k8s architecture
 
 ## 📦 Resources
 
-  - [[k8sArchitecture.canvas]]
+  -  ![[k8sArchitecture.png]]
 
 ## 🔑 Key Points
 
