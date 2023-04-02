@@ -18,7 +18,7 @@ tags:
 
 ## 📦 Resources
 
-- ![[KubeApiServer.canvas]]
+- ![[Pasted image 20230403002615.png]]
 ## 🔑 Key Points
 
 - authenticates user 
