@@ -33,15 +33,10 @@ This note is regarding k8s architecture
 	- Replication-Controller
 - [[Kubelet]] - similar to captian of ship. It listens for instructions from [[KubeApiServer]] and deploys/destroys containers on node as required.
 - [[Kube-proxy]] ensures that the necessary rules (for communication) are in place at worker nodes to allow containers running on them to reach out other containers.
-## ❓ Questions
 
-- 
+## ❓ Questions 
 
 ## 🎯 Actions
 
-- [ ]
-
 
 ## 📃 Summary of Notes
-
--
