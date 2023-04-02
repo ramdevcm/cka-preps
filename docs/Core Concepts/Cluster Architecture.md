@@ -27,8 +27,8 @@ This note is regarding k8s architecture
 - Master node is responsible to manage/contol/plan/schedule/monitor worker node
 - Worker node hosts application as containers
 - [[KubeApiServer]] is primary management component of k8s
-- [[Scheduler]] acts as a crane in ship. It allocates required containers to worker nodes
-- Controller-Manager
+- [[Kube-Scheduler]] acts as a crane in ship. It allocates required containers to worker nodes
+- [[Controller-Manager]]
 	- Node-Controller
 	- Replication-Controller
 - [[Kubelet]] - similar to captian of ship. It listens for instructions from [[KubeApiServer]] and deploys/destroys containers on node as required.
